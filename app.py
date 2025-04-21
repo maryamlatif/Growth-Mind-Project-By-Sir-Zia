@@ -99,7 +99,7 @@ st.markdown("""
 # ---- HEADER ----
 st.markdown("""
     <div class="header-container">
-        <h1 class="header-title">🚀 HG Streamlit</h1>
+        <h1 class="header-title">🚀  Streamlit</h1>
         <p class="header-subtitle">Effortlessly transform, clean, and visualize your data.</p>
     </div>
 """, unsafe_allow_html=True)
